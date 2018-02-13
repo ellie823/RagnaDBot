@@ -133,7 +133,7 @@ def main():
     print(_welcome)
     parse_args(sys.argv)
     if not _debug_core:
-        _client.run(_settings['token'])
+        _client.run(_settings['Mzk2MDMzODUyNTM3MDQ0OTk2.DWQksw.3xsASsph0exnW8A8mqnha66P3_o'])
         exit(0)
 
     # testing
